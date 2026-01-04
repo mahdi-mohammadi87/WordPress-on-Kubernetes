@@ -1,4 +1,4 @@
-# 🚀 Deploying WordPress on Kubernetes (From Scratch)
+# 🚀 Deploying WordPress on Kubernetes (simple setup)
 
 > **⚠️ Disclaimer:** This guide is designed for educational and lab environments. It uses **NodePort** for external access and **Local Path Provisioner** for storage, which are suitable for testing but require additional security hardening for production use.
 
